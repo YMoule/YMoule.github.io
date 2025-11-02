@@ -17,7 +17,7 @@ As people with DS are considered a vulnerable population, I had to carefully des
 
 I created flyers and sent emails to a variety of communities of people with Down Syndrome. Over the span of a couple months, I met with individuals with DS to collect their speech data. I also gathered data from individuals without DS to use as a comparison. Below, you can see a copy of the flyer.
 
-<img src="images/Recruiting Adults with Down Syndrome (Updated) (1).png?raw=true"/>
+<img src="images/Recruiting Adults with Down Syndrome (Updated) (1).png?raw=true" width=300/>
 
 ### 4. Data Cleaning and Analysis
 
