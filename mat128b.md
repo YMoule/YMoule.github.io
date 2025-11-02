@@ -18,7 +18,7 @@ I worked on developing the LSTM model. The model was designed to work with all 5
 
 ### 3. Model Evaluation
 
-The model performed well on the test data (MSE: 0.0007223, R2: 0.9740), which you can see in the diagram below. However, the model failed to predict future stock prices by iteratively taking output from the model as input. When predicting the future, it showed an overall decreasing trend before converging to a constant value. This can be seen in the second figure below. 
+The model performed well on the test data (MSE: 0.0007223, R2: 0.9740), which you can see in the diagram below. This suggests the model has good performance predicting tomorrow's stock prices. However, the model failed to predict future stock prices by iteratively taking output from the model as input. When predicting further into the future, it showed an overall decreasing trend before converging to a constant value. This can be seen in the second figure below. 
 While the linear regression model performed better on test data, it had the same problem predicting future stock prices. Both models accurately predicted the peaks and troughs of future stock prices, highlighting the overall pattern of fluctuations of the stock market. 
 
 <img src="images/LSTM_test?raw=true"/>
