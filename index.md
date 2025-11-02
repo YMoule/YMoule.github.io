@@ -19,7 +19,7 @@ This project was completed as a final project for MAT 128B at UC Davis. I create
 
 - [Pokémon Battle Predictions](/pokemon)
 
-  This project was completed as the final project for ECS 171 at UC Davis. I worked with a team to create a Machien Learning Model to predict the winner in a Pokémon Battle. Then, I created a User Interface to make the model easy to use and access. In this project, I used technical skills such as Python, sci-kit learn, html, and basic data and statistical analysis. I also used workplaces skills, such as communication, delegation, and problem solving. 
+This project was completed as the final project for ECS 171 at UC Davis. I worked with a team to create a Machien Learning Model to predict the winner in a Pokémon Battle. Then, I created a User Interface to make the model easy to use and access. In this project, I used technical skills such as Python, sci-kit learn, html, and basic data and statistical analysis. I also used workplaces skills, such as communication, delegation, and problem solving. 
 
 ### Research Projects
 
