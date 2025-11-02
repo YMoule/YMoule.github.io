@@ -23,7 +23,9 @@ This project was completed as the final project for ECS 171 at UC Davis. I worke
 
 ### Research Projects
 
-- [Automatic Speech Recognition Performance Across Individuals with and without Down Syndrome]
+- [Automatic Speech Recognition (ASR) Performance Across Individuals with and without Down Syndrome](\ASR)
+
+I am principal investigator on a linguistics research project at UC Davis and am working with Professor Zellou. This projects investigates whether there is a difference in ASR performance for individuals with Down Syndrome. If yes, it aims to find particular speech sounds that ASR struggles with for all participants with Down Syndrome. This would suggest that a singular ASR system can be recreated for all users with Down Syndrome rather than created an indiviudal system for each user. As the project was started in September 2024, I am currently writing the paper to finish up the project. I planned this project and gained Institutional Review Board (IRB) approval. I then met with participants to gather data. Finally, I cleaned and analyzed the data. In this project, I used technical skills such as Python, R, data cleaning, data analysis, and academic writing.
 
 ---
 
