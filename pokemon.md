@@ -20,8 +20,8 @@ We found that the best results were using a subset of features (leaving out Type
 
 We found that overall the Multilayer Perceptron (MLP) Model performed the best on testing data. This can be seen through the metrics of Precision Score, Recall, F1 Score, and Accuracy. MLP was the highest performing in all measures, and was thus used for the following analysis. 
 
-<img src="images/Precision Scores for Models.png?raw=true" width="400"/> <img src="images/Recall Scores.png?raw=true" width="400"/>
-<img src="images/F1 Scores.png?raw=true" width="400"/> <img src="images/Accuracy Scores.png?raw=true" width="400"/>
+<img src="images/Precision Scores for Models.png?raw=true" width="200"/> <img src="images/Recall Scores.png?raw=true" width="200"/>
+<img src="images/F1 Scores.png?raw=true" width="200"/> <img src="images/Accuracy Scores.png?raw=true" width="200"/>
 
 ### 4. User Interface (UI) Application
 
