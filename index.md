@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-#### TheLook Fintech Lending Insights
+[TheLook Fintech Lending Insights](/sample_page)
 I completed this project as the capstone project for my Google Cloud Analytics Certificate. I used multiple data sources in BigQuery to gather insight on TheLook Fintech's cash flow and customer base. In addition, I used Looker to create an interactive dashboard (below) to display key metrics, such as total balance, loan status and borrower location.
 
 <img src="images/TheLook_Fintech.png?raw=true"/>
