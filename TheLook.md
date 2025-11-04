@@ -1,7 +1,7 @@
 ## Unlocking Lending Insights: TheLook Fintech
 
-**Project description:** This was the capstone project for the Google Cloud Analytics Certificate. This project has designed to help the treasury department of a hypothetical company (TheLook Fintech) analyze key metrics such as cash flow, loan purpose, and borrower location. 
-A report and interactive dashboard were developed focusing on the key metrics, to aid the Treasury Department in making decisions on issuing a loan. This project has a strong impact, providing valuable insights to inform lending decisions, mitigate risk, and tailor financial offerings. 
+**Project description:** This was the capstone project for the Google Cloud Analytics Certificate. This project was designed to help the treasury department of a hypothetical company (TheLook Fintech) analyze key metrics such as cash flow, loan purpose, and borrower location. 
+A report and interactive dashboard were developed focusing on the key metrics to aid the Treasury Department in making decisions on issuing a loan. This would be an impactful project, providing valuable insights to inform lending decisions, mitigate risk, and tailor financial offerings. 
 
 ### 1. The Report
 
