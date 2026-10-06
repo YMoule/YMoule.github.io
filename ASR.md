@@ -33,7 +33,7 @@ The speech data was transcribed by Sonix and by me. Words that were unintelligib
 I presented my research at the Undergraduate Research Conference at UC Davis. The poster is below.
 
 <!--<iframe src="images/Moule_Yasmin_URSCA.pdf" width="100%" height="600px" frameborder="0"></iframe>-->
-<img src="Moule_poster_ASR.png?raw=true" width=300/>
+<img src="Moule_Poster_ASR.png?raw=true" width=300/>
 
 ### 6. Paper
 
