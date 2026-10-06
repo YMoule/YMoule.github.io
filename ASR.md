@@ -27,4 +27,13 @@ I created flyers and sent emails to a variety of communities of people with Down
 ### 4. Data Cleaning and Analysis
 
 The speech data was transcribed by Sonix and by me. Words that were unintelligible to me where deleted from the database. Each utterance was marked as correctly (or incorrectly) transcribed. Then, the number of correctly transcribed over total utterances was used as an accuracy rate. Utterances were also given a phonetic representation to compare the type of sounds that are incorrectly transcribed. 
-I am currently in the process of completing the analysis and writing the paper. 
+
+### 5. Poster Presentation
+
+I presented my research at the Undergraduate Research Conference at UC Davis. The poster is below.
+
+<iframe src="images/Moule_Yasmin_URSCA.pdf" width="100%" height="600px" frameborder="0"></iframe>
+
+### 6. Paper
+
+I have finished writing the paper and have submitted to a journal for publication.
